@@ -1,0 +1,8 @@
+<Application name="JadeGitTestSchema" guid="{82F49AEB-424C-4DD0-94F3-0E0CD43E0387}">
+    <applicationType>G</applicationType>
+    <controlSpacing>4</controlSpacing>
+    <fontName>Tahoma</fontName>
+    <fontSize>8.25</fontSize>
+    <formMargin>7</formMargin>
+    <heightSingleLineControl>14</heightSingleLineControl>
+</Application>

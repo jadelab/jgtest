@@ -1,0 +1,12 @@
+<Class name="SJadeGitTestSchema" guid="{1D09B535-50AE-4B4E-8F95-5D0FF137EABC}">
+    <superclass name="RootSchemaSession"/>
+    <transient>true</transient>
+    <sharedTransientAllowed>true</sharedTransientAllowed>
+    <subclassSharedTransientAllowed>true</subclassSharedTransientAllowed>
+    <subclassTransientAllowed>true</subclassTransientAllowed>
+    <transientAllowed>true</transientAllowed>
+    <DbClassMap>
+        <database name="JadeGitTestSchemaDb"/>
+        <diskFile name="RootSchemaDb::_environ"/>
+    </DbClassMap>
+</Class>

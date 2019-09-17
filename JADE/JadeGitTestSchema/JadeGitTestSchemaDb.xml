@@ -1,0 +1,4 @@
+<Database name="JadeGitTestSchemaDb" guid="{04F0AE61-87F5-4B98-980D-7BA8A5FFCAF2}">
+    <defaultFile name="jadegittestschema"/>
+    <DbFile name="jadegittestschema" guid="{F4002011-16EB-4435-915C-2E9C45CFC3AE}"/>
+</Database>
